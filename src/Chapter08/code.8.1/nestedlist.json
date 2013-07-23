@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "name": "北海道",
+      "id": "A1",
+      "data": [
+        {
+          "id": 1,
+          "name": "北海道",
+          "kana": "ほっかいどう",
+          "capital": "札幌",
+          "capitalkana": "さっぽろ",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "東北",
+      "id": "A2",
+      "data": [
+        {
+          "id": 2,
+          "name": "青森県",
+          "kana": "あおもり",
+          "capital": "青森",
+          "capitalkana": "あおもり",
+          "leaf": true
+        },
+        {
+          "id": 3,
+          "name": "岩手県",
+          "kana": "いわて",
+          "capital": "盛岡",
+          "capitalkana": "もりおか",
+          "leaf": true
+        },
+        {
+          "id": 4,
+          "name": "宮城県",
+          "kana": "みやぎ",
+          "capital": "仙台",
+          "capitalkana": "せんだい",
+          "leaf": true
+        },
+        {
+          "id": 5,
+          "name": "秋田県",
+          "kana": "あきた",
+          "capital": "秋田",
+          "capitalkana": "あきた",
+          "leaf": true
+        },
+        {
+          "id": 6,
+          "name": "山形県",
+          "kana": "やまがた",
+          "capital": "山形",
+          "capitalkana": "やまがた",
+          "leaf": true
+        },
+        {
+          "id": 7,
+          "name": "福島県",
+          "kana": "ふくしま",
+          "capital": "福島",
+          "capitalkana": "ふくしま",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "関東",
+      "id": "A3",
+      "data": [
+        {
+          "id": 8,
+          "name": "茨城県",
+          "kana": "いばらき",
+          "capital": "水戸",
+          "capitalkana": "みと",
+          "leaf": true
+        },
+        {
+          "id": 9,
+          "name": "栃木県",
+          "kana": "とちぎ",
+          "capital": "宇都宮",
+          "capitalkana": "うつのみや",
+          "leaf": true
+        },
+        {
+          "id": 10,
+          "name": "群馬県",
+          "kana": "ぐんま",
+          "capital": "前橋",
+          "capitalkana": "まえばし",
+          "leaf": true
+        },
+        {
+          "id": 11,
+          "name": "埼玉県",
+          "kana": "さいたま",
+          "capital": "さいたま",
+          "capitalkana": "さいたま",
+          "leaf": true
+        },
+        {
+          "id": 12,
+          "name": "千葉県",
+          "kana": "ちば",
+          "capital": "千葉",
+          "capitalkana": "ちば",
+          "leaf": true
+        },
+        {
+          "id": 13,
+          "name": "東京都",
+          "kana": "とうきょう",
+          "capital": "東京",
+          "capitalkana": "とうきょう",
+          "leaf": true
+        },
+        {
+          "id": 14,
+          "name": "神奈川県",
+          "kana": "かながわ",
+          "capital": "横浜",
+          "capitalkana": "よこはま",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "中部",
+      "id": "A4",
+      "data": [
+        {
+          "id": 15,
+          "name": "新潟県",
+          "kana": "にいがた",
+          "capital": "新潟",
+          "capitalkana": "にいがた",
+          "leaf": true
+        },
+        {
+          "id": 16,
+          "name": "富山県",
+          "kana": "とやま",
+          "capital": "富山",
+          "capitalkana": "とやま",
+          "leaf": true
+        },
+        {
+          "id": 17,
+          "name": "石川県",
+          "kana": "いしかわ",
+          "capital": "金沢",
+          "capitalkana": "かなざわ",
+          "leaf": true
+        },
+        {
+          "id": 18,
+          "name": "福井県",
+          "kana": "ふくい",
+          "capital": "福井",
+          "capitalkana": "ふくい",
+          "leaf": true
+        },
+        {
+          "id": 19,
+          "name": "山梨県",
+          "kana": "やまなし",
+          "capital": "甲府",
+          "capitalkana": "こうふ",
+          "leaf": true
+        },
+        {
+          "id": 20,
+          "name": "長野県",
+          "kana": "ながの",
+          "capital": "長野",
+          "capitalkana": "ながの",
+          "leaf": true
+        },
+        {
+          "id": 21,
+          "name": "岐阜県",
+          "kana": "ぎふ",
+          "capital": "岐阜",
+          "capitalkana": "ぎふ",
+          "leaf": true
+        },
+        {
+          "id": 22,
+          "name": "静岡県",
+          "kana": "しずおか",
+          "capital": "静岡",
+          "capitalkana": "しずおか",
+          "leaf": true
+        },
+        {
+          "id": 23,
+          "name": "愛知県",
+          "kana": "あいち",
+          "capital": "名古屋",
+          "capitalkana": "なごや",
+          "leaf": true
+        },
+        {
+          "id": 24,
+          "name": "三重県",
+          "kana": "みえ",
+          "capital": "津",
+          "capitalkana": "つ",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "近畿",
+      "id": "A5",
+      "data": [
+        {
+          "id": 25,
+          "name": "滋賀県",
+          "kana": "しが",
+          "capital": "大津",
+          "capitalkana": "おおつ",
+          "leaf": true
+        },
+        {
+          "id": 26,
+          "name": "京都府",
+          "kana": "きょうと",
+          "capital": "京都",
+          "capitalkana": "きょうと",
+          "leaf": true
+        },
+        {
+          "id": 27,
+          "name": "大阪府",
+          "kana": "おおさか",
+          "capital": "大阪",
+          "capitalkana": "おおさか",
+          "leaf": true
+        },
+        {
+          "id": 28,
+          "name": "兵庫県",
+          "kana": "ひょうご",
+          "capital": "神戸",
+          "capitalkana": "こうべ",
+          "leaf": true
+        },
+        {
+          "id": 29,
+          "name": "奈良県",
+          "kana": "なら",
+          "capital": "奈良",
+          "capitalkana": "なら",
+          "leaf": true
+        },
+        {
+          "id": 30,
+          "name": "和歌山県",
+          "kana": "わかやま",
+          "capital": "和歌山",
+          "capitalkana": "わかやま",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "中国",
+      "id": "A6",
+      "data": [
+        {
+          "id": 31,
+          "name": "鳥取県",
+          "kana": "とっとり",
+          "capital": "鳥取",
+          "capitalkana": "とっとり",
+          "leaf": true
+        },
+        {
+          "id": 32,
+          "name": "島根県",
+          "kana": "しまね",
+          "capital": "松江",
+          "capitalkana": "まつえ",
+          "leaf": true
+        },
+        {
+          "id": 33,
+          "name": "岡山県",
+          "kana": "おかやま",
+          "capital": "岡山",
+          "capitalkana": "おかやま",
+          "leaf": true
+        },
+        {
+          "id": 34,
+          "name": "広島県",
+          "kana": "ひろしま",
+          "capital": "広島",
+          "capitalkana": "ひろしま",
+          "leaf": true
+        },
+        {
+          "id": 35,
+          "name": "山口県",
+          "kana": "やまぐち",
+          "capital": "山口",
+          "capitalkana": "やまぐち",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "四国",
+      "id": "A7",
+      "data": [
+        {
+          "id": 36,
+          "name": "徳島県",
+          "kana": "とくしま",
+          "capital": "徳島",
+          "capitalkana": "とくしま",
+          "leaf": true
+        },
+        {
+          "id": 37,
+          "name": "香川県",
+          "kana": "かがわ",
+          "capital": "高松",
+          "capitalkana": "たかまつ",
+          "leaf": true
+        },
+        {
+          "id": 38,
+          "name": "愛媛県",
+          "kana": "えひめ",
+          "capital": "松山",
+          "capitalkana": "まつやま",
+          "leaf": true
+        },
+        {
+          "id": 39,
+          "name": "高知県",
+          "kana": "こうち",
+          "capital": "高知",
+          "capitalkana": "こうち",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "九州",
+      "id": "A8",
+      "data": [
+        {
+          "id": 40,
+          "name": "福岡県",
+          "kana": "ふくおか",
+          "capital": "福岡",
+          "capitalkana": "ふくおか",
+          "leaf": true
+        },
+        {
+          "id": 41,
+          "name": "佐賀県",
+          "kana": "さが",
+          "capital": "佐賀",
+          "capitalkana": "さが",
+          "leaf": true
+        },
+        {
+          "id": 42,
+          "name": "長崎県",
+          "kana": "ながさき",
+          "capital": "長崎",
+          "capitalkana": "ながさき",
+          "leaf": true
+        },
+        {
+          "id": 43,
+          "name": "熊本県",
+          "kana": "くまもと",
+          "capital": "熊本",
+          "capitalkana": "くまもと",
+          "leaf": true
+        },
+        {
+          "id": 44,
+          "name": "大分県",
+          "kana": "おおいた",
+          "capital": "大分",
+          "capitalkana": "おおいた",
+          "leaf": true
+        },
+        {
+          "id": 45,
+          "name": "宮崎県",
+          "kana": "みやざき",
+          "capital": "宮崎",
+          "capitalkana": "みやざき",
+          "leaf": true
+        },
+        {
+          "id": 46,
+          "name": "鹿児島県",
+          "kana": "かごしま",
+          "capital": "鹿児島",
+          "capitalkana": "かごしま",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "name": "沖縄",
+      "id": "A9",
+      "data": [
+        {
+          "id": 47,
+          "name": "沖縄県",
+          "kana": "おきなわ",
+          "capital": "那覇",
+          "capitalkana": "なは",
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}

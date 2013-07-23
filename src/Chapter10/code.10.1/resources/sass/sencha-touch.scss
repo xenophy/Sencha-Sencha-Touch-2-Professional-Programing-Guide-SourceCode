@@ -1,0 +1,18 @@
+$base_color: #2ea702; // green
+
+
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/all';
+
+
+#timecont {
+    font-size: 3em;
+    text-align: center;
+    @include bevel-text();
+}
+
+@include icon('play');
+@include icon('stop');
+@include icon('check2');
+
+@include sencha-button-ui('orange', #ff8000, 'glossy');

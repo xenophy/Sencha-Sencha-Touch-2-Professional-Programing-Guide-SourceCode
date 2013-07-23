@@ -1,0 +1,1 @@
+/Users/sunvisor/Downloads/Sencha/sencha-touch-2.1.0-complete

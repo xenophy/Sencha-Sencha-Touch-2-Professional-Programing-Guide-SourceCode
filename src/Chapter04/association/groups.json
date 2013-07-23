@@ -1,0 +1,9 @@
+{
+    "groups": [{
+        "id": "1",
+        "group_name": "Roman Holiday"
+    }, {
+        "id": "2",
+        "group_name": "Casablanca"
+    }]
+}

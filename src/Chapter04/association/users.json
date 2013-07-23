@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": "1",
+        "name": "Gregory Peck",
+        "email": "greg@rome.com",
+        "group_id": "1"
+    }, {
+        "id": "2",
+        "name": "Humphrey Bogart",
+        "email": "bogie@casablanca.com",
+        "group_id": "2"
+    }, {
+        "id": "3",
+        "name": "Ingrid Bergman",
+        "email": "ingrid@casablanca.com",
+        "group_id": "2"
+    }, {
+        "id": "4",
+        "name": "Audrey Hepburn",
+        "email": "audrey@rome.com",
+        "group_id": "1"
+    }]
+}

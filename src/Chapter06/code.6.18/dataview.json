@@ -1,0 +1,35 @@
+{
+    "data": [{
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/maps_icon.png",
+        "title": "マップ",
+        "caption": "ガソリンスタンドを見つけたり。レストランを探したり。エンパイアステートビルを上空から眺めたり。より美しく生まれ変わったマップは、あなたの世界の見方も変えてしまうかもしれません"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/camera_icon.png",
+        "title": "カメラ",
+        "caption": "8メガピクセルの解像度と先進的な光学システムを持つiSightカメラに、パノラマ機能が追加されました。世界で最も愛用されているカメラが、世界をもっと広くとらえます。"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/hdvideo_icon.png",
+        "title": "HDビデオ撮影",
+        "caption": "息をのむ瞬間、目を見張る瞬間は、すべて残しておきたいもの。1080pのHDビデオの撮影、編集、共有を、すべてiPhone 5上で行えます。"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/siri_icon.png",
+        "title": "Siri",
+        "caption": "Siriはあなたの言葉だけでなく、その意味も理解し、あなたが必要とする答えを用意する賢いアシスタントです。より多くの言語を理解し、より多くの国で、より多くのことができるようになりました"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/phone_icon.png",
+        "title": "電話",
+        "caption": "あまりにいろいろできるので忘れがちですが、iPhoneは驚くほど優れた電話です。電話をかける時はワンタップ。かかってきた電話にテキストメッセージですばやく応えることも、「おやすみモード」にしておくこともできます。すべてはあなた次第です。"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/facetime_icon.png",
+        "title": "FaceTime",
+        "caption": "どこにいる時でも、あの人にあなたの笑顔を見せましょう。iPhone 5でFaceTimeを使えば、Wi-Fiまたは携帯電話ネットワーク経由で、別のiPhone、またはiPad、iPod touch、Macとのビデオ通話を楽しめます。遠くの町に暮らす友だちや家族の顔を見るのも、地球の裏側にいる人たちと打ち合わせをするのも、実に簡単です。"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/mail_icon.png",
+        "title": "メール",
+        "caption": "送信、受信、返信。毎日使うEメールには頼れるアプリケーションが必要でしょう。iPhone 5のメールアプリケーションなら、何から何まで理想的です。"
+    }, {
+        "image": "http://images.apple.com/jp/iphone/built-in-apps/images/safari_icon.png",
+        "title": "Safari",
+        "caption": "サイトを大きな画面で楽しめる。読み込みはより速くなる。邪魔なものがない画面で記事だけを読める。オフラインでも読める。優れた機能がほかにもいろいろ。iPhone 5でのインターネット体験は、どこから見ても一段と優れています。"
+    }]
+}
